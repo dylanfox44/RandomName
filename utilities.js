@@ -5,4 +5,3 @@ function getRandomName(list) {
 
 const names = ['Dylan', 'Gavin', 'Easton', 'Max', 'Jacob', 'Josh', 'Avery', 'Alex', 'Jack', 'Steve'];
 const randomName = getRandomName(names);
-console.log(randomName);
